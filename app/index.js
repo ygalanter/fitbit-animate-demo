@@ -16,7 +16,7 @@ function animate_stars() {
     // max distance a star can travel
     const maxD = Math.sqrt(centerX * centerX + centerY * centerY) + 40;
 
-    // full t=time it takes star to travel from center of the scren to max distance
+    // full time it takes star to travel from center of the screen to max distance
     const maxDuration = 2000;
 
     let star;
