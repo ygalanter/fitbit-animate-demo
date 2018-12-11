@@ -4,4 +4,6 @@ This animated SVG starfield is a demo of fitbit-animate library. Original SVG im
 
 ![Example](screenshot.gif "Example")
 
-Library available [here](https://github.com/ygalanter/fitbit-animate)
+Another demo is available [here](https://github.com/ygalanter/fitbit-animate-demo-wheel)
+
+Library available here: [source](https://github.com/ygalanter/fitbit-animate), [npm](https://www.npmjs.com/package/fitbit-animate)
