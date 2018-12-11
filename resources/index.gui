@@ -1,0 +1,32 @@
+<svg  viewport-fill="black">
+  
+  <!-- Star template to animate -->
+  <defs>
+    <symbol id="star">
+      <g id="gr">
+          <image href="star.png" width="50" height="50"/> 
+       </g> 
+    </symbol>
+  </defs>
+
+  <!-- Stars -->
+  <use id="star0" href="#star" />
+  <use id="star1" href="#star" />
+  <use id="star2" href="#star" />
+  <use id="star3" href="#star" />
+  <use id="star4" href="#star" />
+  <use id="star5" href="#star" />
+  <use id="star6" href="#star" />
+  <use id="star7" href="#star" />
+  <use id="star8" href="#star" />
+  <use id="star9" href="#star" />
+  <use id="star10" href="#star" />
+  <use id="star11" href="#star" />
+  <use id="star12" href="#star" />
+  <use id="star13" href="#star" />
+  <use id="star14" href="#star" />
+  <use id="star15" href="#star" />
+ 
+  
+</svg>
+  
